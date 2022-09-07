@@ -1,8 +1,9 @@
 ## Maciel Vinicius 
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&username=eduardoph" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=nightowl&hide_border=false&username=eduardoph" height="150" alt="languages graph"  />
+<div align="center">
+  <a href="https://github.com/Macielv7">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Macielv7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macielv7&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
