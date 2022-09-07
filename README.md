@@ -1,7 +1,9 @@
 ## Maciel Vinicius 
 <div align="center">
   <a href="https://github.com/Macielv7">
- 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Macielv7&show_icons=true&theme=SynthWave ’84&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macielv7&layout=compact&langs_count=7&theme=SynthWave ’84"/>
+</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Maciel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Maciel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
