@@ -1,22 +1,22 @@
 # 
+<br>
+<a href="https://komarev.com/ghpvc/?username=Macielv7">
+  <img align="right" src="https://komarev.com/ghpvc/?username=Macielv7&label=Visitors&color=1e0e31&style=flat" alt="Profile visitor" />
+</a>
 
-<table align="center">
-<tr>
-<td>
-🎓 Cursando Análise e Desenvolvimento de Sistemas, Em constante aprendizado e aprimoramento técnico.</b>
+<h3 align="center">
+        <samp style="color: red;"> Olá!, Eu sou
+                  <b style="color: red;">Marciel</b>
+        </samp>
+</h3>
+<samp>
+<p align="center"> 
+「 Desenvolvedor Full Stack focado em performance, qualidade e inovação 」
+</p>
+</samp>
 <br>
-💻 Desenvolvedor de Software com foco no front-end.</b>
-<br>
-🎯 Objetivo: Me tornar um Desenvolvedor de software referência no Brasill.</b>
-<br>
-🚀 Em busca de oportunidades para aplicar meu conhecimento.
-</b>
-</td>
-<td>
-<img src="https://github.com/Macielv7.png" width="200px" style="border-radius: 50%;" />
-</td>
-</tr>
-</table>
+
+
 
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
