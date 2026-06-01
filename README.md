@@ -1,22 +1,23 @@
-# 
-<br>
-<a href="https://komarev.com/ghpvc/?username=Macielv7">
-  <img align="right" src="https://komarev.com/ghpvc/?username=Macielv7&label=Visitors&color=1e0e31&style=flat" alt="Profile visitor" />
-</a>
+<div align="center">
 
-<h3 align="center">
-        <samp style="color: red;"> Olá!, Eu sou
-                  <b style="color: red;">Marciel</b>
-        </samp>
-</h3>
-<samp>
-<p align="center"> 
-「 Desenvolvedor Full Stack focado em performance, qualidade e inovação 」
-</p>
-</samp>
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Ol%C3%A1!+Eu+sou+o+Marciel+%F0%9F%91%8B;Full+Stack+Developer+%7C+React+%2B+JavaScript" alt="Typing SVG" />
 
 
+![Status](https://img.shields.io/badge/%F0%9F%9F%A2%20Disponível-para%20novos%20projetos-1D9E75?style=flat&labelColor=E1F5EE&color=7C3AED)
+
+</div>
+
+
+```typescript
+const Marciel Vinicius = {
+  role:      "Full Stack Developer",
+  stack:     ["React", "TypeScript", "Java", "MySQL"],
+  design:    "Figma",
+  foco:      "Performance · Qualidade · Inovação",
+  status:    "🟢 Disponível para novos projetos",
+  filosofia: "Código limpo é código que respeita quem vem depois."
+};
+```
 
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -36,9 +37,23 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
 </div>
 
----
+#
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=macielv7&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&order=2" width="49%" height="195px" alt="languages graph"  />
-<img src="https://github-readme-stats.vercel.app/api?username=macielv7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=midnight-purple&locale=en&hide_border=true&order=1" width="49%" height="195px" alt="stats graph"  />
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>⚡ Performance</h4>
+      <p>Código rápido por padrão, não como afterthought.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🛡️ Qualidade</h4>
+      <p>Testes, revisão e entrega com responsabilidade.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>✨ Inovação</h4>
+      <p>Curiosidade constante, soluções criativas.</p>
+    </td>
+  </tr>
+</table>
+
 </div>
